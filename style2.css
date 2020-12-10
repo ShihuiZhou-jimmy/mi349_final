@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    
 }
 
 .about {
@@ -15,8 +16,7 @@
 
 .about_tit {
     position: absolute;
-    top: 280px;
-    left: 100;
+    
     right: 0;
     font-size: 28px;
     font-weight: 550;
@@ -145,6 +145,7 @@
     display: flex;
     margin-top: 60px;
     padding-bottom: 80px;
+    margin-left: 250px;
 }
 
 .videos span {
@@ -155,6 +156,3 @@
 }
 
 
-.poster{
-    margin-right: 50px;
-}
